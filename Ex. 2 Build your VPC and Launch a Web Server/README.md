@@ -108,19 +108,24 @@ was accessible through a web browser using the instance's public IP address.
 
 ### Screenshot 1: VPC and Subnet Details
 
-<img width="1498" height="746" alt="image" src="https://github.com/user-attachments/assets/3c1866b5-25dc-48ab-b64f-15bf1af93332" />
+
+<img width="1427" height="685" alt="image" src="https://github.com/user-attachments/assets/fcff8235-d347-44ae-b581-6d4dd3781f29" />
 
 
 
 
 ### Screenshot 2: EC2 Instance Running
 
-<img width="1427" height="685" alt="image" src="https://github.com/user-attachments/assets/fcff8235-d347-44ae-b581-6d4dd3781f29" />
+
+<img width="1431" height="692" alt="image" src="https://github.com/user-attachments/assets/e7f2eeaf-3643-4619-a05e-633c4fc09db4" />
 
 
 ### Screenshot 3: Web Server Output in Browser
 
-<img width="1431" height="692" alt="image" src="https://github.com/user-attachments/assets/e7f2eeaf-3643-4619-a05e-633c4fc09db4" />
+
+
+<img width="1008" height="600" alt="image" src="https://github.com/user-attachments/assets/72d85172-e52c-45d1-a340-790687153c56" />
+
 
 
 ## Result 
