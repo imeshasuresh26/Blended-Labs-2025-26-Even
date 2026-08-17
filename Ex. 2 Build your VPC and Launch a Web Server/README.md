@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ___Imesha .S_____________________________
-* **Register Number**: _____212225040131________________
-* **Date of Submission**: ____17.08.2026______________
+* **Name**: ___Imesha .S
+* **Register Number**: _____212225040131
+* **Date of Submission**: ____17.08.2026
 
 ---
 
