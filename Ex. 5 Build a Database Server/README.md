@@ -1,6 +1,4 @@
-<img width="1581" height="697" alt="image" src="https://github.com/user-attachments/assets/719c5085-18e0-49f4-87fa-27fd61cf6076" /># Lab 5 – Build a Database Server (AWS)
 
-## Author
 
 * **Name**: Imesha.S
 * **Register Number**: 212225040131
